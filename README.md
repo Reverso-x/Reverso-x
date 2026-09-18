@@ -11,12 +11,8 @@
 <br><br>
 
 <!-- Contatos -->
-<a href="https://github.com/Reverso-x" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
+<a href="https://github.com/Reverso-x" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 </div>
 
