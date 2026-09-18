@@ -29,15 +29,14 @@
 
 ### 👨‍💻 Sobre mim
 
-Fala! Eu sou o **Reverso-x**, 17 anos.  
-Tô começando na programação e focado em aprender de verdade.
+Fala! Eu sou o **Reverso-x**, 17 anos.
 
-- 🐍 Python (pausado) — já fiz coisas simples tipo calculadora e sistema de cadastro
-- 🗄️ MySQL (ativo) — gosto bastante de banco de dados, ainda na base
-- 🌐 Redes de Computadores → caminho pra **Cybersecurity**
-- 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux
+- 🐍 Python (pausado) — Sei base já fiz coisas simples tipo calculadora e sistema de cadastro.
+- 🗄️ MySQL (ativo) — gosto bastante de banco de dados, ainda na base.
+- 🌐 Redes de Computadores → caminho pra **Cybersecurity**.
+- 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.
 
-Sempre aprendendo e construindo minha base.
+(frase imponente).
 
 ---
 
