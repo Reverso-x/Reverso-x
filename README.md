@@ -34,9 +34,9 @@
 
 Olá! Eu sou o **Reverso-x**.  
 -Estou aprendendo Python(parado) para coisas simples sei calculadora, cadastro... .
--Aprendendo também MySQL(ativo) gosto muito de banco de dados estou na base.
--Aprendendo Redes de computadores também para cybersecurity.
--Montando o primeiro PC com sistema e vai ser com Linux Mint > Fedora + Kali Linux.
+ -Aprendendo também MySQL(ativo) gosto muito de banco de dados estou na base.
+ -Aprendendo Redes de computadores também para cybersecurity.
+ -Montando o primeiro PC com sistema e vai ser com Linux Mint > Fedora + Kali Linux.
 
 ---
 
