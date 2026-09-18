@@ -14,13 +14,6 @@
 </a>
 
 <br>
-
-<!-- Contatos -->
-<a href="https://github.com/Reverso-x" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-
-</div>
-
 </div>
 
 ---
@@ -38,7 +31,7 @@ Construindo a base, um commit de cada vez.
 
 ---
 
-### 🛠️ Linguagens & Ferramentas
+### 🛠️ Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
@@ -48,4 +41,6 @@ Construindo a base, um commit de cada vez.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/20260918_191128.gif" width="100%" alt="Banner" />
+
+Contato: <ahref="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
