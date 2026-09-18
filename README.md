@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Cyber -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff9f,100:0a0a0a&height=220&section=header&text=Reverso-x&fontSize=52&fontColor=00ff9f&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20%7C%20Back-end&descAlignY=58&descSize=18&descColor=00d4ff" />
+<!-- Banner -->
+<img src="https://pin.it/qT6ObfJDK" width="100%" alt="Banner" />
 
 <br>
 
