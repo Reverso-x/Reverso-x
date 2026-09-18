@@ -1,26 +1,51 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/perfil.svg" width="100%" alt="Perfil Reverso-x"/>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 700">
-  <rect width="900" height="700" fill="#0a0a0a"/>
+<!-- Banner -->
+<img src="https://github.com/Reverso-x/Reverso-x/blob/main/50c8bea1fb4fdee80601cbc84a6e92f1.jpg" width="100%" alt="Banner" />
 
-  <text x="450" y="80" text-anchor="middle" fill="#00ff9f" font-family="Fira Code, monospace" font-size="38" font-weight="bold">Eu sou Reverso-x</text>
-  <text x="450" y="125" text-anchor="middle" fill="#00ff9f" font-family="Fira Code, monospace" font-size="26">Desenvolvedor Back-end</text>
+<br>
 
-  <text x="60" y="200" fill="#ffffff" font-family="Arial, sans-serif" font-size="26" font-weight="bold">👨‍💻 Sobre mim</text>
+<!-- Fundo preto atrás do texto + contatos -->
+<div style="background-color: #0a0a0a; padding: 25px 30px; border-radius: 12px; display: inline-block;">
 
-  <text x="60" y="245" fill="#dddddd" font-family="Arial, sans-serif" font-size="18">Fala! Eu sou o Reverso-x, 17 anos.</text>
-  <text x="60" y="285" fill="#dddddd" font-family="Arial, sans-serif" font-size="18">🐍 Python (pausado) — Sei a base, já fiz calculadora e cadastro.</text>
-  <text x="60" y="315" fill="#dddddd" font-family="Arial, sans-serif" font-size="18">🗄️ MySQL (ativo) — Gosto bastante de banco de dados.</text>
-  <text x="60" y="345" fill="#dddddd" font-family="Arial, sans-serif" font-size="18">🌐 Redes de Computadores → caminho pra Cybersecurity.</text>
-  <text x="60" y="375" fill="#dddddd" font-family="Arial, sans-serif" font-size="18">💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali.</text>
+<!-- Texto digitando -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=500&lines=Eu+sou+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
+</a>
 
-  <text x="60" y="430" fill="#ffffff" font-family="Arial, sans-serif" font-size="26" font-weight="bold">🛠️ Linguagens &amp; Ferramentas</text>
-  <text x="60" y="470" fill="#dddddd" font-family="Arial, sans-serif" font-size="18">Python • MySQL • GitHub • VS Code • Linux Mint • Kali</text>
+<br><br>
 
-  <text x="450" y="560" text-anchor="middle" fill="#00ff9f" font-family="Fira Code, monospace" font-size="20">Construindo a base, um commit de cada vez.</text>
+<!-- Contatos -->
+<a href="https://github.com/Reverso-x" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
-  <text x="450" y="640" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="16">github.com/Reverso-x • discord: SEU_ID</text>
-</svg>
+</div>
 
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Fala! Eu sou o **Reverso-x**, 17 anos.
+
+- 🐍 **Python** (pausado) — Sei a base, já fiz coisas simples tipo calculadora e sistema de cadastro.
+- 🗄️ **MySQL** (ativo) — Gosto bastante de banco de dados, ainda na base.
+- 🌐 **Redes de Computadores** → caminho pra Cybersecurity.
+- 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.
+
+Construindo a base, um commit de cada vez.
+
+---
+
+### 🛠️ Linguagens & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
+</p>
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff9f,100:0a0a0a&height=120&section=footer" />
 </div>
