@@ -26,11 +26,10 @@
 ### 👨‍💻 Sobre mim
 
 Fala! Eu sou o **Reverso-x**, 17 anos.  
-Tô começando na programação e focado em aprender de verdade.
 
 - 🐍 **Python** (pausado) — Sei a base, já fiz coisas simples tipo calculadora e sistema de cadastro.
 - 🗄️ **MySQL** (ativo) — Gosto bastante de banco de dados, ainda na base.
-- 🌐 **Redes de Computadores** → caminho pra **Cybersecurity**.
+- 🌐 **Redes de Computadores** → caminho pra Cybersecurity.
 - 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.
 
 Construindo a base, um commit de cada vez.
@@ -40,7 +39,7 @@ Construindo a base, um commit de cada vez.
 ### 🛠️ Linguagens & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,linux,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
 </p>
 
 ---
