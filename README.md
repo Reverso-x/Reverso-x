@@ -32,7 +32,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Eu sou o **Reverso-x**.  
+•Eu sou o **Reverso-x** 17y.  
 -Estou aprendendo Python(parado) para coisas simples sei calculadora, cadastro... .
 
 -Aprendendo também MySQL(ativo) gosto muito de banco de dados estou na base.
