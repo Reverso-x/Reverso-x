@@ -4,7 +4,7 @@
 <div style="background-color: #000000; padding: 25px 30px; border-radius: 12px; display: inline-block;">
 
 <!-- Banner -->
-<img src="https://github.com/Reverso-x/Reverso-x/blob/main/50c8bea1fb4fdee80601cbc84a6e92f1.jpg" width="100%" alt="Banner" />
+<im src="https://github.com/Reverso-x/Reverso-x/blob/main/50c8bea1fb4fdee80601cbc84a6e92f1.jpg" width="100%" alt="Banner" />
 
 <br>
 
@@ -29,8 +29,8 @@
 
 Fala! Eu sou o **Reverso-x**, 17 anos.
 
-- 🐍 **Python** (pausado) — Sei a base, já fiz coisas simples tipo calculadora e sistema de cadastro.
-- 🗄️ **MySQL** (ativo) — Gosto bastante de banco de dados, ainda na base.
+- 🐍 **Python** — Fundamentos e projetos simples tipo calculadora e sistema de cadastro… .
+- 🗄️ **MySQL** — Gosto bastante de banco de dados, ainda na base.
 - 🌐 **Redes de Computadores** → caminho pra Cybersecurity.
 - 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.
 
