@@ -5,7 +5,7 @@
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Reverso-x;17y+%7C+Aprendendo+Back-end;Python+%2B+MySQL+%2B+Redes;Futuro+em+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Reverso-x;Aprendendo+Back-end" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -44,7 +44,7 @@ Sempre aprendendo e construindo minha base.
 ### 🛠️ Linguagens & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,linux,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
 </p>
 
 ---
