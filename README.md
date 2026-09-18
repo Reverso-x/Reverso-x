@@ -25,17 +25,21 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-
-Fala! Eu sou o **Reverso-x**, 17 anos.
-
-- 🐍 **Python** (pausado) — Sei a base, já fiz coisas simples tipo calculadora e sistema de cadastro.
-- 🗄️ **MySQL** (ativo) — Gosto bastante de banco de dados, ainda na base.
-- 🌐 **Redes de Computadores** → caminho pra Cybersecurity.
-- 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.
-
-Construindo a base, um commit de cada vez.
-
+<table align="center" bgcolor="#0a0a0a">
+  <tr>
+    <td>
+      <h3>👨‍💻 Sobre mim</h3>
+      <p>Fala! Eu sou o <strong>Reverso-x</strong>, 17 anos.</p>
+      <ul>
+        <li>🐍 <strong>Python</strong> (pausado) — Sei a base...</li>
+        <li>🗄️ <strong>MySQL</strong> (ativo) — Gosto bastante...</li>
+        <li>🌐 <strong>Redes de Computadores</strong> → caminho pra Cybersecurity.</li>
+        <li>💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.</li>
+      </ul>
+      <p>Construindo a base, um commit de cada vez.</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 🛠️ Linguagens & Ferramentas
