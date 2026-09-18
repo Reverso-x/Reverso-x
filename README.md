@@ -5,7 +5,7 @@
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-end!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=500&lines=Oi+eu+sou+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -26,9 +26,9 @@
 
 Fala! Eu sou o **Reverso-x**, 17 anos.
 
-- 🐍 Python (pausado) — Sei a base, já fiz coisas simples tipo calculadora e sistema de cadastro.
-- 🗄️ MySQL (ativo) — Gosto bastante de banco de dados, ainda na base.
-- 🌐 Redes de Computadores → caminho pra Cybersecurity.
+- 🐍 **Python** (pausado) — Sei a base, já fiz coisas simples tipo calculadora e sistema de cadastro.
+- 🗄️ **MySQL** (ativo) — Gosto bastante de banco de dados, ainda na base.
+- 🌐 **Redes de Computadores** → caminho pra Cybersecurity.
 - 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.
 
 Construindo a base, um commit de cada vez.
