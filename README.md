@@ -33,13 +33,10 @@
 ### 👨‍💻 Sobre mim
 
 Olá! Eu sou o **Reverso-x**.  
-Apaixonado por tecnologia, código limpo e criar coisas que realmente fazem diferença.
-
-- 🔭 Atualmente trabalhando em: **[projeto atual]**
-- 🌱 Aprendendo: **[tecnologias que está estudando]**
-- 👯 Procurando colaborar em: **projetos open source interessantes**
-- 💬 Pergunte-me sobre: **[suas stacks principais]**
-- ⚡ Fun fact: **[algo legal sobre você]**
+Estou aprendendo Python(parado) para coisas simples, calculadora cadastro.
+Aprendendo também MySQL(ativo) gosto muito de banco de dados estou na base.
+Aprendendo Redes de computadores também para cybersecurity
+Montando o primeiro PC com sistema e vai ser com Linux Mint > Fedora + Kali Linux.
 
 ---
 
