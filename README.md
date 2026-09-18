@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Banner com fundo preto -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=180&section=header&text=Reverso-x&fontSize=55&fontColor=00ff9f&desc=Desenvolvedor%20Back-end&descAlignY=72&descSize=22&descColor=ffffff" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=Reverso-x&fontSize=55&fontColor=00ff9f&desc=Desenvolvedor%20Back-end&descAlignY=72&descSize=22&descColor=ffffff" width="100%" alt="Banner"/>
 
 <br><br>
 
 <!-- Bloco preto: texto digitando + contatos -->
 <table align="center" bgcolor="#0a0a0a" style="background-color:#0a0a0a; border-radius:12px; padding:0;">
 <tr>
-<td align="center" bgcolor="#0a0a0a" style="background-color:#0a0a0a; padding:25px 40px; border-radius:12px;">
+<td align="center" bgcolor="#000000" style="background-color:#000000; padding:25px 40px; border-radius:12px;">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=500&lines=Eu+sou+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
