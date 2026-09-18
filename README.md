@@ -1,16 +1,89 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Reverso-x/Reverso-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Banner animado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Reverso-x&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
-Here are some ideas to get you started:
+<!-- Texto digitando -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Reverso-x!;Desenvolvedor+%7C+Criador+de+Coisas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<br><br>
+
+<!-- Badges sociais (edita os links) -->
+<a href="https://github.com/Reverso-x" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:seuemail@email.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/seulinkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<!-- Adicione Instagram, Twitter/X, Discord etc se quiser -->
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Reverso-x&style=flat-square&color=A78BFA" alt="Profile views" />
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Olá! Eu sou o **Reverso-x**.  
+Apaixonado por tecnologia, código limpo e criar coisas que realmente fazem diferença.
+
+- 🔭 Atualmente trabalhando em: **[projeto atual]**
+- 🌱 Aprendendo: **[tecnologias que está estudando]**
+- 👯 Procurando colaborar em: **projetos open source interessantes**
+- 💬 Pergunte-me sobre: **[suas stacks principais]**
+- ⚡ Fun fact: **[algo legal sobre você]**
+
+---
+
+### 🛠️ Linguagens & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,mint" />
+</p>
+
+<!-- Personalize a lista acima. Exemplos comuns:
+js,ts,react,nextjs,nodejs,python,java,go,rust,html,css,tailwind,sass,
+mongodb,postgres,mysql,docker,kubernetes,aws,azure,linux,git,github,vscode,figma
 -->
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reverso-x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reverso-x&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<!-- Depois de configurar o snake (opcional, mas fica muito foda) -->
+<!-- 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reverso-x/Reverso-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reverso-x/Reverso-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/output/github-contribution-grid-snake.svg">
+</picture>
+-->
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+</div>
