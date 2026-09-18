@@ -1,19 +1,19 @@
 <div align="center">
 
+<!-- Fundo preto atrás do texto + contatos -->
+<div style="background-color: #000000; padding: 25px 30px; border-radius: 12px; display: inline-block;">
+
 <!-- Banner -->
 <img src="https://github.com/Reverso-x/Reverso-x/blob/main/50c8bea1fb4fdee80601cbc84a6e92f1.jpg" width="100%" alt="Banner" />
 
 <br>
-
-<!-- Fundo preto atrás do texto + contatos -->
-<div style="background-color: #0a0a0a; padding: 25px 30px; border-radius: 12px; display: inline-block;">
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=500&lines=Eu+sou+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
 <!-- Contatos -->
 <a href="https://github.com/Reverso-x" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -47,5 +47,5 @@ Construindo a base, um commit de cada vez.
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff9f,100:0a0a0a&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff9f,100:000000&height=120&section=footer" />
 </div>
