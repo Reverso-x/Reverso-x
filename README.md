@@ -1,30 +1,27 @@
 <div align="center">
 
-<!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Reverso-x&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<!-- Banner Cyber -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff9f,100:0a0a0a&height=220&section=header&text=Reverso-x&fontSize=52&fontColor=00ff9f&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20%7C%20Back-end&descAlignY=58&descSize=18&descColor=00d4ff" />
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Reverso-x!;Desenvolvedor+Back-end" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Reverso-x;17y+%7C+Aprendendo+Back-end;Python+%2B+MySQL+%2B+Redes;Futuro+em+Cybersecurity" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-<!-- Badges sociais (edita os links) -->
+<!-- Contatos: só GitHub + Discord -->
 <a href="https://github.com/Reverso-x" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0a0a0a" />
 </a>
-<a href="mailto:seuemail@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+&nbsp;
+<a href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=00d4ff&labelColor=0a0a0a" />
 </a>
-<a href="https://linkedin.com/in/seulinkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<!-- Adicione Instagram, Twitter/X, Discord etc se quiser -->
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Reverso-x&style=flat-square&color=A78BFA" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Reverso-x&style=flat-square&color=00ff9f" alt="Profile views" />
 
 </div>
 
@@ -32,48 +29,46 @@
 
 ### 👨‍💻 Sobre mim
 
-•Eu sou o **Reverso-x** 17y.  
--Estou aprendendo Python(parado) para coisas simples sei calculadora, cadastro... .
+Fala! Eu sou o **Reverso-x**, 17 anos.  
+Tô começando na programação e focado em aprender de verdade.
 
--Aprendendo também MySQL(ativo) gosto muito de banco de dados estou na base.
+- 🐍 Python (pausado) — já fiz coisas simples tipo calculadora e sistema de cadastro
+- 🗄️ MySQL (ativo) — gosto bastante de banco de dados, ainda na base
+- 🌐 Redes de Computadores → caminho pra **Cybersecurity**
+- 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux
 
--Aprendendo Redes de computadores também para cybersecurity.
-
--Montando o primeiro PC e vai ser com Linux Mint > Fedora + Kali Linux.
+Sempre aprendendo e construindo minha base.
 
 ---
 
 ### 🛠️ Linguagens & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,github,vscode" />
 </p>
-
-<!-- Personalize a lista acima. Exemplos comuns:
-js,ts,react,nextjs,nodejs,python,java,go,rust,html,css,tailwind,sass,
-mongodb,postgres,mysql,docker,kubernetes,aws,azure,linux,git,github,vscode,figma
--->
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reverso-x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Reverso-x&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=00ff9f&icon_color=00d4ff&text_color=e0e0e0" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=0a0a0a&title_color=00ff9f&text_color=e0e0e0" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reverso-x&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reverso-x&theme=radical&hide_border=true&background=0a0a0a&stroke=00ff9f&ring=00d4ff&fire=00ff9f&currStreakNum=00ff9f&sideNums=e0e0e0&currStreakLabel=00d4ff&sideLabels=e0e0e0&dates=aaaaaa" />
 </div>
 
 ---
 
 ### 🐍 Contribuições
 
-<!-- Depois de configurar o snake (opcional, mas fica muito foda) -->
+<!-- A cobrinha animada fica aqui quando você quiser ativar.
+     Por enquanto está desligada. Me avisa se quiser o tutorial! -->
+
 <!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reverso-x/Reverso-x/output/github-contribution-grid-snake-dark.svg">
@@ -85,5 +80,5 @@ mongodb,postgres,mysql,docker,kubernetes,aws,azure,linux,git,github,vscode,figma
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff9f,100:0a0a0a&height=120&section=footer" />
 </div>
