@@ -1,6 +1,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/perfil.svg" width="100%" alt="Perfil Reverso-x"/>
-</div>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 700">
   <rect width="900" height="700" fill="#0a0a0a"/>
@@ -23,3 +22,5 @@
 
   <text x="450" y="640" text-anchor="middle" fill="#888888" font-family="Arial, sans-serif" font-size="16">github.com/Reverso-x • discord: SEU_ID</text>
 </svg>
+
+</div>
