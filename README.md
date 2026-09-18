@@ -47,5 +47,5 @@ Construindo a base, um commit de cada vez.
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff9f,100:000000&height=120&section=footer" />
+  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/20260918_191128.gif" width="100%" alt="Banner" />
 </div>
