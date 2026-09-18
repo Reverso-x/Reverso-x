@@ -5,7 +5,7 @@
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Reverso-x!;Desenvolvedor+%7C+Criador+de+Coisas;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Reverso-x!;Desenvolvedor+Back-end" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -34,9 +34,12 @@
 
 Olá! Eu sou o **Reverso-x**.  
 -Estou aprendendo Python(parado) para coisas simples sei calculadora, cadastro... .
- -Aprendendo também MySQL(ativo) gosto muito de banco de dados estou na base.
- -Aprendendo Redes de computadores também para cybersecurity.
- -Montando o primeiro PC com sistema e vai ser com Linux Mint > Fedora + Kali Linux.
+
+-Aprendendo também MySQL(ativo) gosto muito de banco de dados estou na base.
+
+-Aprendendo Redes de computadores também para cybersecurity.
+
+-Montando o primeiro PC com sistema e vai ser com Linux Mint > Fedora + Kali Linux.
 
 ---
 
