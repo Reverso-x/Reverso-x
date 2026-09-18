@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://pin.it/qT6ObfJDK" width="100%" alt="Banner" />
+<img src="https://github.com/Reverso-x/Reverso-x/blob/main/50c8bea1fb4fdee80601cbc84a6e92f1.jpg" width="100%" alt="Banner" />
 
 <br>
 
