@@ -39,14 +39,14 @@ Olá! Eu sou o **Reverso-x**.
 
 -Aprendendo Redes de computadores também para cybersecurity.
 
--Montando o primeiro PC com sistema e vai ser com Linux Mint > Fedora + Kali Linux.
+-Montando o primeiro PC e vai ser com Linux Mint > Fedora + Kali Linux.
 
 ---
 
 ### 🛠️ Linguagens & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,linux,mint" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
 </p>
 
 <!-- Personalize a lista acima. Exemplos comuns:
