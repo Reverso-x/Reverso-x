@@ -5,17 +5,21 @@
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00ff9f&center=true&vCenter=true&width=500&lines=Eu+sou+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00aaff&center=true&vCenter=true&width=500&lines=Eu+sou+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
 </a>
 </div>
 
----
+--- 
 
 ### 👨‍💻 Sobre mim
 
-Opa! Eu sou o **Reverso-x**, 17 anos.
+Opa! Eu sou o Reverso-x, tenho 17 anos.
 
-Construindo a base, um commit de cada vez.
+Ainda estou no começo, mas gosto de aprender muito na prática: codar, testar, quebrar, corrigir e entender o porquê das coisas.
+
+No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a base.
+
+"Transformando curiosidade em código e erros em experiência."⚡
 
 ---
 
