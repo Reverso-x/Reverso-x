@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Fala! Eu sou o **Reverso-x**, 17 anos.
+Opa! Eu sou o **Reverso-x**, 17 anos.
 
 - 🐍 **Python** — Fundamentos e projetos simples tipo calculadora e sistema de cadastro… .
 - 🗄️ **MySQL** — Gosto bastante de banco de dados, ainda na base.
@@ -33,9 +33,9 @@ Construindo a base, um commit de cada vez.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/20260918_191128.gif" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/4cb6180f170e59c14c26ad2a470dbcd5.jpg" width="70%" alt="40" />
 
 
 <h3>Contato:</h3> <a
-href="https://discord.com/users/SEU_ID_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+href="https://discord.com/ryroot/SEU_ID_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
