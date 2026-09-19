@@ -5,7 +5,7 @@
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00aaff&center=true&vCenter=true&width=500&lines=Eu+sou+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00aaff&center=true&vCenter=true&width=500&lines=Eu+sou+o+Reverso-x;Desenvolvedor+Back-end!" alt="Typing SVG" />
 </a>
 </div>
 
@@ -43,7 +43,16 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=dark&locale=pt-br"/>
+  <img
+    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/000000003d54820eaba0cfc1cf31c7f8.png"
+    width="30%"
+    align="middle"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=dark&locale=pt-br"
+    width="60%"
+    align="middle"
+  />
 </div>
 
 ---
