@@ -15,12 +15,16 @@
 
 Opa! Eu sou o **Reverso-x**, 17 anos.
 
+Construindo a base, um commit de cada vez.
+
+---
+
+### 📚 Estudos
+
 - 🐍 **Python** — Fundamentos e projetos simples tipo calculadora e sistema de cadastro… .
 - 🗄️ **MySQL** — Gosto bastante de banco de dados, ainda na base.
 - 🌐 **Redes de Computadores** → caminho pra Cybersecurity.
 - 💻 Montando meu primeiro PC: Linux Mint → Fedora + Kali Linux.
-
-Construindo a base, um commit de cada vez.
 
 ---
 
@@ -33,9 +37,9 @@ Construindo a base, um commit de cada vez.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/4cb6180f170e59c14c26ad2a470dbcd5.jpg" width="70%" alt="40" />
+  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/4cb6180f170e59c14c26ad2a470dbcd5.jpg" width="100%" alt="40" />
 
 
 <h3>Contato:</h3> <a
-href="https://discord.com/ryroot/SEU_ID_DO_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+href="https://discord.com/ryroot/1210190223972241409" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 </div>
