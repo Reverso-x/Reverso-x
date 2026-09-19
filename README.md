@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<im g src="https://github.com/Reverso-x/Reverso-x/blob/main/50c8bea1fb4fdee80601cbc84a6e92f1.jpg" width="100%" alt="Banner" />
+<img src="https://github.com/Reverso-x/Reverso-x/blob/main/392cf408ba0887f854a028a252428fcb.jpg" width="100%" alt="20" />
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
@@ -33,6 +33,14 @@ Construindo a base, um commit de cada vez.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
 </p>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  <img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=dark&locale=pt-br"/>
+</div>
 
 ---
 
