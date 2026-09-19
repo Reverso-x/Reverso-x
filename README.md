@@ -36,10 +36,20 @@ Construindo a base, um commit de cada vez.
 
 ---
 
+<!-- Banner de baixo -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/4cb6180f170e59c14c26ad2a470dbcd5.jpg" width="100%" alt="40" />
+</div>
 
+---
 
-<h3>Contato:</h3> <a
-href="https://discord.com/ryroot/1210190223972241409" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<!-- Contato discord -->
+<div align="center">
+  <p>
+    <strong style="font-size: 1.4em; vertical-align: middle;">Contato:</strong>
+    &nbsp;
+    <a href="https://discord.com/users/1210190223972241409" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="vertical-align: middle;"/>
+    </a>
+  </p>
 </div>
