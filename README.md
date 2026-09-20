@@ -40,15 +40,18 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/2026091922063211.png"
-    width="90"
+    width="120"
+    align="middle"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint"
-    height="70%"
-  />
+  <sup>
+    <img
+      src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint"
+      width="450"
+      align="middle"
+    />
+  </sup>
 </p>
-
 
 ---
 
