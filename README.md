@@ -38,8 +38,17 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 ### 🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint" />
+  <img
+    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/2026091922063211.png"
+    width="90"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://skillicons.dev/icons?i=python,mysql,github,vscode,linux,mint"
+    height="70%"
+  />
 </p>
+
 
 ---
 
