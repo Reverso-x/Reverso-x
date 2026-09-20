@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://github.com/Reverso-x/Reverso-x/blob/main/392cf408ba0887f854a028a252428fcb.jpg" width="100%" alt="20" />
+<img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/392cf408ba0887f854a028a252428fcb.jpg" 
+  width="100%" 
+  alt="20" 
+/>
 
 <!-- Texto digitando -->
 <a href="https://git.io/typing-svg">
