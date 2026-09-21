@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/banner-mao-terminal.jpg" 
+<img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/fotos/banner-mao-terminal.jpg" 
   width="100%" 
   alt="20" 
 />
@@ -39,7 +39,7 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/picareta-minecraft.png"
+    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/fotos/picareta-minecraft.png"
     width="120"
     align="middle"
   />
@@ -59,8 +59,8 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/computador-terminal.gif"
-    width="35%"
+    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/fotos/computador-terminal.gif"
+    width="20%"
     align="middle"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,7 +75,9 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 
 <!-- Banner de baixo -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/banner-drift.jpg" width="100%" alt="40" />
+  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/fotos/banner-drift.jpg" 
+    width="100%" 
+    alt="40" />
 </div>
 
 ---
