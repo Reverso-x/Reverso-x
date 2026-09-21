@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/392cf408ba0887f854a028a252428fcb.jpg" 
+<img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/banner-mao-terminal.jpg" 
   width="100%" 
   alt="20" 
 />
@@ -39,7 +39,7 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/2026091922063211.png"
+    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/picareta-minecraft.png"
     width="120"
     align="middle"
   />
@@ -59,10 +59,11 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/000000003d54820eaba0cfc1cf31c7f8.png"
-    width="30%"
+    src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/main/computador-terminal.gif"
+    width="35%"
     align="middle"
   />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=dark&locale=pt-br"
     width="60%"
@@ -74,7 +75,7 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
 
 <!-- Banner de baixo -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/4cb6180f170e59c14c26ad2a470dbcd5.jpg" width="100%" alt="40" />
+  <img src="https://raw.githubusercontent.com/Reverso-x/Reverso-x/refs/heads/main/banner-drift.jpg" width="100%" alt="40" />
 </div>
 
 ---
