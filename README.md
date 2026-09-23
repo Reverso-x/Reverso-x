@@ -64,11 +64,9 @@ No momento, estou mergulhando em Python, MySQL, Linux e Redes, construindo a bas
     align="middle"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Reverso-x&layout=compact&theme=dark&locale=pt-br"
-    width="60%"
-    align="middle"
-  />
+<div align="center">
+  <img src="./stats.svg" width="500">
+</div>
 </div>
 
 ---
